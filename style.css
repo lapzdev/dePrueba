@@ -1,0 +1,17 @@
+html {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+table,
+tr,
+td,
+th,
+thead,
+tbody,
+tfoot {
+  border: thin solid black;
+}
+iframe {
+  width: 95vw;
+  height: 95vh;
+}
